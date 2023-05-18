@@ -1,5 +1,4 @@
 # deep-learning-challenge
-Use machine learning and neural networks to create a binary classifier to predict whether fictional organizations will be successful.
 
 In <a href='https://colab.research.google.com/drive/1JYV34hptTVWeiQB3JI5TLielwiLkFg63?usp=share_link'> Google Colaboratory</a>
 
