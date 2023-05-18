@@ -1,7 +1,7 @@
 # deep-learning-challenge
 Use machine learning and neural networks to create a binary classifier to predict whether fictional organizations will be successful.
 
-In <a href='https://colab.research.google.com/drive/1JYV34hptTVWeiQB3JI5TLielwiLkFg63?usp=share_link'> Google Collaboratory</a>
+In <a href='https://colab.research.google.com/drive/1JYV34hptTVWeiQB3JI5TLielwiLkFg63?usp=share_link'> Google Colaboratory</a>
 
 ## Overview
 The purpose of this neural network learning model is to predict the success of an organization that is funded by the fictional nonprofit foundation Alphabet Soup. The dataset includes the following information:
